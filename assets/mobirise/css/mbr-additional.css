@@ -724,6 +724,13 @@ h6,
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features7-15 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-15 .iconbox {
+  background-color: #60ab9c;
+  border-color: #60ab9c;
+}
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
