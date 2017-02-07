@@ -801,6 +801,7 @@ h6,
 }
 
 
+
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -891,6 +892,8 @@ h6,
 }
 #content5-1j .mbr-section-title {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #content2-11 H4 {
   font-size: 14px;
