@@ -1005,8 +1005,8 @@
             "bgColor": "#00a99c",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Some of my Work",
+          "meta": "Made with photoshop<br>"
         },
         {
           "_inherit": "gallery1",
