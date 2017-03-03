@@ -21,13 +21,13 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 83,
+    "uniqCompNum": 84,
     "versionPublish": "3.11.1"
   },
   "pages": {
     "photoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop",
+        "title": "Sarah Lapuente",
         "order": 3
       },
       "components": [
@@ -90,7 +90,7 @@
     },
     "illistrator.html": {
       "settings": {
-        "title": "Adobe Illistrator",
+        "title": "Sarah Lapuente",
         "order": 4
       },
       "components": [
@@ -153,7 +153,7 @@
     },
     "mobirise.html": {
       "settings": {
-        "title": "Mobirise",
+        "title": "Sarah Lapuente",
         "order": 5
       },
       "components": [
@@ -216,7 +216,7 @@
     },
     "123d.html": {
       "settings": {
-        "title": "123D",
+        "title": "Sarah Lapuente",
         "order": 6
       },
       "components": [
@@ -279,69 +279,8 @@
     },
     "powerpint.html": {
       "settings": {
-        "order": 7
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            "STRONG": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "contacts4-26",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br><strong><br></strong>15015 SW 24th St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: slapuente@miamiartsstudio.com<br>\nPhone: (305) 283-9027<br><br>",
-          "text2": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "slapuente@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "order": 8
+        "order": 7,
+        "title": "Sarah Lapuente"
       },
       "components": [
         {
@@ -404,7 +343,7 @@
     "intro.html": {
       "settings": {
         "main": true,
-        "title": "slapuente",
+        "title": "Sarah Lapuente",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -845,7 +784,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "Sarah Lapuente's Website",
+        "title": "Sarah Lapuente",
         "meta_descr": "Site Builder Description",
         "order": 1
       },
@@ -947,7 +886,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -955,8 +894,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#00a885",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -1002,14 +941,16 @@
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "bgColor": "#005659",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/6vPLYMJoaE0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayOpacity": "0.1",
+            "overlayColor": "#c5fdff",
             "showTitle": true,
             "showCaption": true
           },
@@ -1052,7 +993,7 @@
             "bgColor": "#00a99c",
             "showMeta": true
           },
-          "title": "Some of my Work",
+          "title": "A litle bit of my work...",
           "meta": "Made with photoshop<br>"
         },
         {
@@ -1143,7 +1084,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGOL0vLrSLwoGl7ZX3eIqBQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCGOL0vLrSLwoGl7ZX3eIqBQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
