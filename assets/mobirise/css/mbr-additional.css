@@ -412,6 +412,75 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#ext_menu-1o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1o .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1o .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1o .close-icon::before,
+#ext_menu-1o .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1o .link,
+#ext_menu-1o .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1o .link {
+  font-size: 0.7rem;
+}
+#ext_menu-1o .dropdown-item,
+#ext_menu-1o .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#ext_menu-1o .link:hover,
+#ext_menu-1o .dropdown-item:hover,
+#ext_menu-1o .link:focus,
+#ext_menu-1o .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-1o .link[aria-expanded="true"],
+#ext_menu-1o .dropdown-menu {
+  background: #121212;
+}
+#ext_menu-1o .nav-dropdown-sm .link:focus,
+#ext_menu-1o .nav-dropdown-sm .link:hover,
+#ext_menu-1o .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1o .nav-dropdown-sm .dropdown-item:hover {
+  background: #242424!important;
+}
+#ext_menu-1o .navbar,
+#ext_menu-1o .nav-dropdown-sm,
+#ext_menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1o .nav-dropdown-sm .dropdown-menu {
+  background: #2c2c2c;
+}
+#ext_menu-1o .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1o .bg-color.transparent.opened .link:hover,
+#ext_menu-1o .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-1o .link[aria-expanded="true"],
+#ext_menu-1o .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-2k .mbr-section-title,
+#msg-box8-2k p {
+  color: #fff;
+}
+#social-buttons4-2o .mbr-section-title,
+#social-buttons4-2o .btn-social {
+  color: #fff;
+}
 #contacts4-26 STRONG {
   color: #7e9b9f;
 }
@@ -603,6 +672,9 @@ h6,
 #ext_menu-1o .link[aria-expanded="true"],
 #ext_menu-1o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-1q .mbr-section-title {
+  color: #00a885;
 }
 #content8-22 .mbr-section-title,
 #content8-22 p {
