@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sarah's Portfolio",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 97,
-    "versionPublish": "3.10.7"
+    "uniqCompNum": 100,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "photoshop.html": {
@@ -128,9 +128,146 @@
             "Theme"
           ],
           "_name": "msg-box8",
+          "_anchor": "msg-box8-2r",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1317.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Photoshop",
+          "text": "<p>Here is some of my photoshop work</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#36544e",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
           "_anchor": "msg-box8-2k",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
@@ -230,7 +367,107 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-2000x2000-2-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-2000x2000-2.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-8-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-15-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-15-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-21-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-21-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-22-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-22-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-24-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-24-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-finished-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-finished-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -598,11 +835,12 @@
               "color": "#fff"
             },
             ".lead P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
               "font-size": "60px"
             }
           },
@@ -616,7 +854,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2-2000x1333-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/capture-2000x998.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -624,8 +862,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": true
@@ -1102,6 +1340,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#00a885"
+            }
+          },
           "_anchor": "header1-1q",
           "_params": {
             "parallax": true,
@@ -1124,12 +1367,7 @@
           },
           "title": "Welcome",
           "text": "~click here to see more about me~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#00a885"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a> "
         },
         {
           "_tags": [
