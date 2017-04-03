@@ -915,69 +915,6 @@
         }
       ]
     },
-    "mobirise.html": {
-      "settings": {
-        "title": "Sarah Lapuente",
-        "order": 5
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            "STRONG": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "contacts4-26",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br><strong><br></strong>15015 SW 24th St, Miami, FL 33185<br><br>\n<strong>Contacts</strong><br>\nEmail: slapuente@miamiartsstudio.com<br>\nPhone: (305) 283-9027<br><br>",
-          "text2": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "slapuente@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
-        }
-      ]
-    },
     "123d.html": {
       "settings": {
         "title": "Sarah Lapuente",
