@@ -1927,7 +1927,7 @@
           },
           "title": "Welcome",
           "text": "~click here to see more about me~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://youtu.be/HYdyK_85iE4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction Here</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=HYdyK_85iE4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
         },
         {
           "_tags": [
