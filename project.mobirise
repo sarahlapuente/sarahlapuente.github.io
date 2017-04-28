@@ -104,7 +104,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-469x128-1.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -136,7 +136,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1317.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -306,23 +306,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-masterpiece-recreation-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-masterpiece-recreation-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-masterpiec-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-masterpiec-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -332,12 +322,22 @@
                 "active": false
               },
               {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-recovered3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-recovered3-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -346,8 +346,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -356,40 +356,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-2-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-10-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-jan-vermeer-recovered-2-recovered-3-2000x2000-2.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-8-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-8-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-11-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Responsive",
@@ -398,6 +368,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-14-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-14-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -416,8 +396,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-21-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-21-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-18-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-18-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -436,6 +426,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-23-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-23-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-24-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-24-2000x2000.jpg",
                 "caption": "Type caption here",
@@ -446,8 +446,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/25-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/25-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -456,8 +456,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/26-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/26-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -469,7 +469,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sarah-lapuente-finished-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sarah-lapuente-finished-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
