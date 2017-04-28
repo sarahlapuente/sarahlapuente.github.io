@@ -982,18 +982,17 @@ h6,
 #ext_menu-32 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-34 .mbr-section-title,
-#msg-box8-34 p {
+#msg-box8-36 .mbr-section-title,
+#msg-box8-36 p {
   color: #fff;
 }
-#msg-box4-35 H3 {
-  text-align: left;
-  font-size: 36px;
+#msg-box4-34 H3 {
   color: #ffffff;
+  font-size: 36px;
 }
-#msg-box4-36 H3 {
-  font-size: 36px;
+#msg-box4-35 H3 {
   color: #ffffff;
+  font-size: 36px;
 }
 #contacts4-33 STRONG {
   color: #7e9b9f;
